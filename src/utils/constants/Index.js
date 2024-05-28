@@ -1,0 +1,1 @@
+export  const BASE_URL = "https://ae25f4b285b40818.mokky.dev/todoBek"
